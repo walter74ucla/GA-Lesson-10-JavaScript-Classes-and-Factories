@@ -184,6 +184,14 @@ console.log(me);
 
 ## Make a class inherit attributes from a "parent class"
 
+### Inheritance
+
+- In complex systems, it's not uncommon to have several layers of inheritance - often referred to as an object hierarchy.
+
+<img src="https://i.imgur.com/t9eUguh.png" width="700">
+
+---
+
 Sometimes we want to have a "parent" class that will have some basic attributes that will be inherited by "child" classes.
 
 ```javascript
