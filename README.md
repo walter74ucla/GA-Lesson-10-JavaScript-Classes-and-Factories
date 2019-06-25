@@ -16,6 +16,13 @@
 
 Sometimes we need to repetitively create new objects with the same attributes.  Imagine we wanted to create multiple people.  All people have the same basic attributes, so it would be great if we could create a blueprint for our person creation process.
 
+### What Are <em>Classes</em>?
+<br>
+
+<img src="https://i.imgur.com/Pjxlpjs.jpg" width="600">
+
+---
+
 ## Create a class to define the blueprint for creating objects
 
 When creating a class, it's custom to capitalize the first letter of the variable, so we know it's a `class`.  This follows customs in other programming languages.
